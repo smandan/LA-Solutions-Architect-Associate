@@ -6,7 +6,7 @@
      "Principal": "*",
      "Action":["s3:GetObject"],
      "Resource":["<BUCKET_ARN>/*"]
-     "_comment_example_bucket_ARN"::["arn:aws:s3:::scubasyndrome-791350782327/*"]
+     "_comment_example_bucket_ARN":["arn:aws:s3:::scubasyndrome-791350782327/*"]
 
   }]
 }
